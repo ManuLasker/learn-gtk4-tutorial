@@ -16,6 +16,8 @@
 *.gch
 *.pch
 
+.cache/
+
 # Libraries
 *.lib
 *.a
@@ -41,8 +43,6 @@
 *.su
 *.idb
 *.pdb
-
-.cache/
 
 # Kernel Module Compile Results
 *.mod*
